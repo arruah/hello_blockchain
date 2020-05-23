@@ -10,7 +10,7 @@ config :hello_blockchain,
   ecto_repos: [HelloBlockchain.Repo]
 
 config :hello_blockchain,
-  bitcoin_url: "http://lolbitcoin:lolpassword@localhost:8332"
+  bitcoin_url: "http://arruah:wing1978@192.168.1.73:8334"
 
 # Configures the endpoint
 config :hello_blockchain, HelloBlockchainWeb.Endpoint,
